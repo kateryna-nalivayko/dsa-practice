@@ -1,0 +1,38 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Build directories
+build/
+debug/
+Release/
+Debug/
+
+# Dependency directories
+vendor/
+lib/
+
+# Compiler specific
+*.d
+*.slo
+*.lo
+*.ilk
+
+# System specific
+.DS_Store
+Thumbs.db
